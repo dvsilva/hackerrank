@@ -1,0 +1,1 @@
+available in: https://www.hackerrank.com/challenges/sock-merchant/problem

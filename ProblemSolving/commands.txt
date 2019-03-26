@@ -1,0 +1,4 @@
+export OUTPUT_PATH='/home/danyllo/Documentos/apps/Others/hackerrank/sock-merchant/result.txt'
+
+javac [filename].java
+java [filename] < tests/input0[test_id].txt 
